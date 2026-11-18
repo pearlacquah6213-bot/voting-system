@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia International Honours",
+  "description": "Production awards management and secure verified online voting platform with multi-role administrative governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
